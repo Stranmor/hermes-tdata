@@ -42,7 +42,7 @@ thiserror = "2"
 tracing = "0.1"
 
 # Filesystem paths
-dirs = "5"
+dirs = "7"
 
 # Hex encoding
 hex = "0.4"

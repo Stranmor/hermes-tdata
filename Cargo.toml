@@ -25,7 +25,7 @@ include = [
 [dependencies]
 # Crypto - using grammers for AES-IGE (already battle-tested)
 grammers-crypto = "0.10"
-grammers-session = { version = "0.10", default-features = false }
+grammers-session = { version = "0.11", default-features = false }
 
 # Key derivation
 pbkdf2 = { version = "0.12", default-features = false, features = ["hmac", "sha2"] }

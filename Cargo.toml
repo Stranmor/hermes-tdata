@@ -24,7 +24,7 @@ include = [
 
 [dependencies]
 # Crypto - using grammers for AES-IGE (already battle-tested)
-grammers-crypto = "0.10"
+grammers-crypto = "0.11"
 grammers-session = { version = "0.10", default-features = false }
 
 # Key derivation
